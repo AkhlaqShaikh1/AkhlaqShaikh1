@@ -1,4 +1,4 @@
-### <div align="center">I'm Akhlaq Shaikh, a Flutter developer with keen interest in emerging techs 👨‍💻 </div>  
+### <div align="center">I'm Akhlaq Shaikh, a Full Stack Developer and Computer Scientist with keen interest in emerging techs 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning Blockchain and NodeJs  
