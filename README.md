@@ -1,7 +1,7 @@
 ### <div align="center">I'm Akhlaq Shaikh, a Full Stack Developer and Computer Scientist with keen interest in emerging techs 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Blockchain and NodeJs  
+- 🌱 I’m currently working on AI and on Meta Dev Kit
   
 
 - ❓ Ask me about anything related to AI,DL, Blockchain , Flutter  
